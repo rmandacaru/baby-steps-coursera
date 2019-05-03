@@ -5,7 +5,6 @@
 
 
 def menor_nome(nomes):
-    n=''
     m=[]
     for i in nomes:
         i=i.strip() #retira os espaços em branco
